@@ -1,4 +1,4 @@
-Hey, This is Rahul Ashwanth 
+Hey, This is Rahul Ashwanth
 Ive done a Data Analysis Project on the Customer-Segmentation-recommendation
 Customer-Segmentation-recommendation dataset is acuqired from Kaggle
 This is a project of Data science which is minimized for data analytics (Sub-Project)
